@@ -19,4 +19,4 @@ list is a constant work in progress. it represents places I can personally vouch
 
 ### washington dc
 
-- [Consumer Finance Protection Bureau](http://www.consumerfinance.gov/) - they are [on github](https://github.com/cfpb). contact person: https://twitter.com/erie
+- [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/) - they are [on github](https://github.com/cfpb). much of their dev and design team works remotely from non-dc locations. contact person: https://twitter.com/erie
