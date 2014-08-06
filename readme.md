@@ -17,6 +17,9 @@ list is a constant work in progress. it represents places I can personally vouch
 
 # javascript and/or other things too
 
-### washington dc
+- [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/) - they are [on github](https://github.com/cfpb). much of their dev and design team works remotely. contact person: https://twitter.com/erie
 
-- [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/) - they are [on github](https://github.com/cfpb). much of their dev and design team works remotely from non-dc locations. contact person: https://twitter.com/erie
+### fellowships
+
+- [code for america](http://codeforamerica.org/)
+- [open news](http://opennews.org/fellowships/)
