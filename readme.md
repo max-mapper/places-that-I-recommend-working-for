@@ -12,6 +12,8 @@ list is a constant work in progress. it represents places I can personally vouch
 - [good eggs](https://www.goodeggs.com) in SF. contact person: https://github.com/demands
 - [tessel](https://tessel.io/) in Berkeley. contact person: https://twitter.com/SelkeyMoonbeam
 - [diy](https://diy.org/) in SF. contact person: https://twitter.com/drk
+- [uber](https://www.uber.com/) in SF. contact person https://github.com/raynos
+- [mapbox](https://www.mapbox.com/) - in SF (also DC). contact person https://twitter.com/fulgenteft
 
 # javascript and/or other things too
 
