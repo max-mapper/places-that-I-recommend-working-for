@@ -18,6 +18,8 @@ list is a constant work in progress. it represents places I can personally vouch
 # javascript and/or other things too
 
 - [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/) - they are [on github](https://github.com/cfpb). much of their dev and design team works remotely. contact person: https://twitter.com/erie
+- [18F](https://18f.gsa.gov/) - digital service delivery for the US government. Basically an in-house Code for America
+- [GDS](https://gds.blog.gov.uk/) - digital service delivery for the UK government. The prototype for 18F. Really amazing organization (if you are a UK citizen you can work here, they don't currently do int'l visas)
 
 ### fellowships
 
