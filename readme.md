@@ -15,6 +15,10 @@ list is a constant work in progress. it represents places I can personally vouch
 - [uber](https://www.uber.com/) in SF. contact person https://github.com/raynos
 - [mapbox](https://www.mapbox.com/) - in SF (also DC). contact person https://twitter.com/fulgenteft
 
+### portland
+
+- [periscopic](http://www.periscopic.com/) "do good with data". contact person https://github.com/kimrees
+
 # javascript and/or other things too
 
 - [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/) - they are [on github](https://github.com/cfpb). much of their dev and design team works remotely. contact person: https://twitter.com/erie
